@@ -1,6 +1,9 @@
 #include <iostream>
 
-void f(){}
+void f()
+{
+	std::cout << "feature 1 finished" << std::endl;
+}
 
 int main()
 {
