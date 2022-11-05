@@ -7,6 +7,6 @@ void f()
 
 int main()
 {
-	std::cout << "master updated" << std::endl;
+	std::cout << "master updated on github" << std::endl;
 	return 0;
 }
