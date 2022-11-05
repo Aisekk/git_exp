@@ -7,6 +7,6 @@ void f()
 
 int main()
 {
-	std::cout << "feature 1" << std::endl;
+	std::cout << "master" << std::endl;
 	return 0;
 }
