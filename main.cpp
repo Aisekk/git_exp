@@ -7,6 +7,6 @@ void f()
 
 int main()
 {
-	std::cout << "master" << std::endl;
+	std::cout << "master updated" << std::endl;
 	return 0;
 }
